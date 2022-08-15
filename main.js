@@ -17,3 +17,6 @@ for (const card of cards) {
 }
 
 //কোন একটা ফাংশন লিখো। সেটার ভিতরে কনসোল লগ হবে। এবং সেই ফাংশন টা ক্লিক হ্যান্ডলার হিসেবে কোন একটা বাটনে যোগ করো 
+function onConsole(){
+  console.log('Register Now');
+}
